@@ -43,4 +43,11 @@ Date Created:
    La capacità di cercare più Hotel possibili.
    E se funziona senza problemi.
    ottimizzando lo spazio RAM e ROM
+-----------------------
+8.  LINK UTILI
+    GHIT info link: 
+    interaction clickup-ghit:
+    https://help.clickup.com/hc/en-us/articles/6305771568791-GitHub-integration
+    automation clickup-ghit:
+    https://help.clickup.com/hc/en-us/articles/6305836061463-Use-GitHub-Automations
 
